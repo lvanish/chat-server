@@ -1,0 +1,12 @@
+*.log
+node_modules/
+*.env
+npm-debug.log
+build/
+dist/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+*.tmp
+temp_*
